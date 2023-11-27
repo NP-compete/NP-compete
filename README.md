@@ -55,6 +55,41 @@
   <img loading="lazy" height="40" width="40" src="https://cdn.simpleicons.org/amazonaws/FFFFFF"/>
   <img loading="lazy" height="40" width="40" src="https://cdn.simpleicons.org/kubernetes/FFFFFF"/>
   <img loading="lazy" height="40" width="40" src="https://cdn.simpleicons.org/github/FFFFFF"/>
+  <img loading="lazy" height="40" width="40" src="https://cdn.simpleicons.org/githubactions/FFFFFF"/>
+  <img loading="lazy" height="40" width="40" src="https://cdn.simpleicons.org/gitlab/FFFFFF"/>
+  <img loading="lazy" height="40" width="40" src="https://cdn.simpleicons.org/redhatopenshift/FFFFFF"/>
+  <img loading="lazy" height="40" width="40" src="https://cdn.simpleicons.org/openstack/FFFFFF"/>
+  <img loading="lazy" height="40" width="40" src="https://cdn.simpleicons.org/ansible/FFFFFF"/>
+  <img loading="lazy" height="40" width="40" src="https://cdn.simpleicons.org/python/FFFFFF"/>
+  <img loading="lazy" height="40" width="40" src="https://cdn.simpleicons.org/go/FFFFFF"/>
+  <img loading="lazy" height="40" width="40" src="https://cdn.simpleicons.org/mongodb/FFFFFF"/>
+  <img loading="lazy" height="40" width="40" src="https://cdn.simpleicons.org/django/FFFFFF"/>
+  <img loading="lazy" height="40" width="40" src="https://cdn.simpleicons.org/linux/FFFFFF"/>
+  <img loading="lazy" height="40" width="40" src="https://cdn.simpleicons.org/mysql/FFFFFF"/>
+  <img loading="lazy" height="40" width="40" src="https://cdn.simpleicons.org/docker/FFFFFF"/>
+  <img loading="lazy" height="40" width="40" src="https://cdn.simpleicons.org/packer/FFFFFF"/>
+  <img loading="lazy" height="40" width="40" src="https://cdn.simpleicons.org/jenkins/FFFFFF"/>
+  <img loading="lazy" height="40" width="40" src="https://cdn.simpleicons.org/splunk/FFFFFF"/>
+  <img loading="lazy" height="40" width="40" src="https://cdn.simpleicons.org/postgresql/FFFFFF"/>
+  <img loading="lazy" height="40" width="40" src="https://cdn.simpleicons.org/elasticcloud/FFFFFF"/>
+  <img loading="lazy" height="40" width="40" src="https://cdn.simpleicons.org/elasticsearch/FFFFFF"/>
+  <img loading="lazy" height="40" width="40" src="https://cdn.simpleicons.org/serverless/FFFFFF"/>
+  <img loading="lazy" height="40" width="40" src="https://cdn.simpleicons.org/diagramsdotnet/FFFFFF"/>
+  <img loading="lazy" height="40" width="40" src="https://cdn.simpleicons.org/terraform/FFFFFF"/>
+  <img loading="lazy" height="40" width="40" src="https://cdn.simpleicons.org/opentofu/FFFFFF"/>
+  <img loading="lazy" height="40" width="40" src="https://cdn.simpleicons.org/gnubash/FFFFFF"/>
+  <img loading="lazy" height="40" width="40" src="https://cdn.simpleicons.org/metabase/FFFFFF"/>
+  <img loading="lazy" height="40" width="40" src="https://cdn.simpleicons.org/liquibase/FFFFFF"/>
+  <img loading="lazy" height="40" width="40" src="https://cdn.simpleicons.org/redis/FFFFFF"/>
+  <img loading="lazy" height="40" width="40" src="https://cdn.simpleicons.org/apachekafka/FFFFFF"/>
+  <img loading="lazy" height="40" width="40" src="https://cdn.simpleicons.org/cloudflare/FFFFFF"/>
+  <img loading="lazy" height="40" width="40" src="https://cdn.simpleicons.org/newrelic/FFFFFF"/>
+  <img loading="lazy" height="40" width="40" src="https://cdn.simpleicons.org/uptimekuma/FFFFFF"/>
+  <img loading="lazy" height="40" width="40" src="https://cdn.simpleicons.org/opentelemetry/FFFFFF"/>
+  <img loading="lazy" height="40" width="40" src="https://cdn.simpleicons.org/sonarqube/FFFFFF"/>
+  <img loading="lazy" height="40" width="40" src="https://cdn.simpleicons.org/sonarcloud/FFFFFF"/>
+  <img loading="lazy" height="40" width="40" src="https://cdn.simpleicons.org/owasp/FFFFFF"/>
+  <img loading="lazy" height="40" width="40" src="https://cdn.simpleicons.org/trivy/FFFFFF"/>
 </div>
 
 ## 📊 GitHub
