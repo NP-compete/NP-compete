@@ -6,7 +6,7 @@
 
 - 📝 I regularly write articles on [https://soham.super.site/blogs](https://soham.super.site/blogs)
 
-- 💬 Ask me about **cloud native, system design, configuration management, distributed architecture and site reliability engineering**
+- 💬 Ask me about **cloud native, system design, hyperconverged infrastrcture, infrastructure management, configuration management, distributed architecture and site reliability engineering**
 
 
 <h3 align="left">Connect with me:</h3>
