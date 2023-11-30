@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **ebpf, observability, and system design**
 
-- 📝 I regularly write articles on [https://soham.super.site/blogs](https://soham.super.site/blogs)
+- 📝 I regularly write articles on [The opinionated SRE](https://soham.super.site/blogs)
 
 - 💬 Ask me about **cloud native, system design, hyperconverged infrastructure, infrastructure management, configuration management, distributed architecture and site reliability engineering**
 
