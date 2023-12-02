@@ -1,5 +1,5 @@
 <h1 align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&pause=1000&center=true&vCenter=true&random=false&width=435&lines=The+friendly+neighbourhood+SRE" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Making+production+predictable" alt="Typing SVG" /></a>
 </h1>
 
 - 🌱 I’m currently learning **ebpf, observability, and system design**
