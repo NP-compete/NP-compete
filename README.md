@@ -36,7 +36,7 @@
             </th>
             <th>
                 <a href="https://twitter.com/mr_right96" title="twitter.com/mr_right96">
-                    <img loading="lazy" alt="twitter icon" src="https://cdn.simpleicons.org/twitter/EB008B" width="35px">
+                    <img loading="lazy" alt="twitter icon" src="https://cdn.simpleicons.org/x/EB008B" width="35px">
                 </a>
             </th>
             <th>
