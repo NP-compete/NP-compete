@@ -16,7 +16,7 @@
         <tr>
             <th>
                 <a href="https://www.linkedin.com/in/sohamdutta/" title="linkedin.com/in/sohamdutta">
-                    <img loading="lazy" alt="linkedin icon" src="https://cdn.simpleicons.org/linkedin/EB008B" width="35px">
+                    <img loading="lazy" alt="linkedin icon" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" width="35px">
                 </a>
             </th>
             <th>
