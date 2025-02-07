@@ -46,7 +46,7 @@
 <h3 align="left">Languages and Tools:</h3>
 
 <div align="center">
-  <img loading="lazy" height="40" width="40" src="https://cdn.simpleicons.org/amazonaws/FFFFFF"/>
+  <img loading="lazy" height="40" width="40" src="https://cdn.simpleicons.org/amazonwebservices/FFFFFF"/>
   <img loading="lazy" height="40" width="40" src="https://cdn.simpleicons.org/kubernetes/FFFFFF"/>
   <img loading="lazy" height="40" width="40" src="https://cdn.simpleicons.org/github/FFFFFF"/>
   <img loading="lazy" height="40" width="40" src="https://cdn.simpleicons.org/githubactions/FFFFFF"/>
