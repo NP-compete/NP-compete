@@ -16,27 +16,27 @@
         <tr>
             <th>
                 <a href="https://www.linkedin.com/in/sohamdutta/" title="linkedin.com/in/sohamdutta">
-                    <img loading="lazy" alt="linkedin icon" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" width="35px">
+                    <img loading="lazy" alt="linkedin icon" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" width="40px">
                 </a>
             </th>
             <th>
                 <a href="https://www.github.com/NP-compete" title="github.com/NP-compete">
-                    <img loading="lazy" alt="github icon" src="https://cdn.simpleicons.org/github/EB008B" width="35px">
+                    <img loading="lazy" alt="github icon" src="https://cdn.simpleicons.org/github/EB008B" width="40px">
                 </a>
             </th>
             <th>
                 <a href="https://soham.super.site/" title="soham.super.site">
-                    <img loading="lazy" alt="web icon" src="https://cdn.simpleicons.org/googlechrome/EB008B" width="35px">
+                    <img loading="lazy" alt="web icon" src="https://cdn.simpleicons.org/googlechrome/EB008B" width="40px">
                 </a>
             </th>
             <th>
                 <a href="mailto:soham.dutta.devops@gmail.com" title="soham.dutta.devops@gmail.com">
-                    <img loading="lazy" alt="gmail icon" src="https://cdn.simpleicons.org/gmail/EB008B" width="35px">
+                    <img loading="lazy" alt="gmail icon" src="https://cdn.simpleicons.org/gmail/EB008B" width="40px">
                 </a>
             </th>
             <th>
                 <a href="https://medium.com/@mr-right" title="medium.com/@mr-right">
-                    <img loading="lazy" alt="medium icon" src="https://cdn.simpleicons.org/medium/EB008B" width="35px">
+                    <img loading="lazy" alt="medium icon" src="https://cdn.simpleicons.org/medium/EB008B" width="40px">
                 </a>
             </th>
         </tr>
