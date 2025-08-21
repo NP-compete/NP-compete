@@ -1,8 +1,9 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&pause=1000&center=true&vCenter=true&random=false&width=600&lines=Making+Production+Predictable;Engineering+Reliability+Into+Chaos" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&pause=1000&center=true&vCenter=true&random=false&width=600&lines=Making+Production+Predictable;Engineering+Reliability+Into+Chaos;Engineering+Autonomy+with+Agentic+AI+Systems;Driving+Development+with+Resilience" alt="Typing SVG" />
   </a>
 </h1>
+
 
 <p align="center">
   <img src="https://img.shields.io/badge/SRE-Mindset-242938?style=for-the-badge&logo=gnubash&logoColor=white"/>
