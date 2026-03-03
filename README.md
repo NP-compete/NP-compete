@@ -61,6 +61,13 @@ databases:
 
 ## `> tail -5 blog.log`
 
+**From [The Opinionated SRE](https://soham.super.site/blogs):**
+- [Let My People Go!](https://soham.super.site/blogs)
+- [Creating ngrok on my local system](https://soham.super.site/blogs)
+- [Everything is broken, and it's okay](https://soham.super.site/blogs)
+- [Understanding Trust in Your Infrastructure](https://soham.super.site/blogs)
+
+**From [Medium](https://medium.com/@mr-right):**
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 

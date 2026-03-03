@@ -13,7 +13,7 @@ jobs:
       
       - uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          feed_list: "https://soham.super.site/rss"
+          feed_list: "https://medium.com/feed/@mr-right"
           max_post_count: 5
           template: "- [$title]($url)"
           commit_message: "chore: Update blog posts"
