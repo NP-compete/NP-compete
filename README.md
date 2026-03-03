@@ -8,9 +8,6 @@
 
 <div align="center">
 
-[![GitHub stars](https://img.shields.io/github/stars/NP-compete/NP-compete?style=social)](https://github.com/NP-compete/NP-compete)
-[![GitHub followers](https://img.shields.io/github/followers/NP-compete?style=social)](https://github.com/NP-compete)
-
 ### *"I automate myself out of jobs, then find harder problems."*
 
 <a href="https://git.io/typing-svg">
