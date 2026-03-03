@@ -27,7 +27,7 @@
 ```python
 class Soham:
     """
-    Site Reliability Engineer by day. Agent architect by obsession.
+    Agent architect by obsession. Site Reliability Engineer by trade.
     """
     def __init__(self):
         self.role = "Senior Software Engineer @ Red Hat"
