@@ -1,0 +1,19 @@
+name: Update Blog Posts
+
+on:
+  schedule:
+    - cron: "0 */6 * * *" # Every 6 hours
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      
+      - uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          feed_list: "https://medium.com/feed/@mr-right"
+          max_post_count: 5
+          template: "- [$title]($url)"
+          commit_message: "chore: Update blog posts"
