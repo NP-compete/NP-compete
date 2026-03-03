@@ -8,6 +8,8 @@
 
 <div align="center">
 
+*"I automate myself out of jobs, then find harder problems."*
+
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&repeat=true&width=380&height=50&lines=Building+agents+that+build;Data+%E2%80%A2+AI+%E2%80%A2+Research+%E2%80%A2+Infra;Production+predictable+since+'18" alt="Typing SVG" />
 </a>
