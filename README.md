@@ -27,7 +27,7 @@
 ```python
 class Soham:
     """
-    Agent architect by obsession. Site Reliability Engineer by trade.
+    Agent Builder. SRE background. I automate everything.
     """
     def __init__(self):
         self.role = "Senior Software Engineer @ Red Hat"
