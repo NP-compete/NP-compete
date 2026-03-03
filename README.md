@@ -8,7 +8,7 @@
 
 <div align="center">
 
-*"I automate myself out of jobs, then find harder problems."*
+### *"I automate myself out of jobs, then find harder problems."*
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&repeat=true&width=380&height=50&lines=Building+agents+that+build;Data+%E2%80%A2+AI+%E2%80%A2+Research+%E2%80%A2+Infra;Production+predictable+since+'18" alt="Typing SVG" />
@@ -59,12 +59,25 @@ databases:
 
 ---
 
+## `> tail -5 blog.log`
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+---
+
 ## `> git log --oneline -1 stats`
 
 <div align="center">
 
 <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=NP-compete&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&hide=contribs" height="150" />
 <img src="https://streak-stats.demolab.com?user=NP-compete&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=888888" height="150" />
+
+<br>
+
+<img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D Contribution Graph"/>
+
+<br>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NP-compete/NP-compete/output/snake-dark.svg" />
