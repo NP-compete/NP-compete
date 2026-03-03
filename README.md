@@ -69,6 +69,11 @@ databases:
 
 **From [Medium](https://medium.com/@mr-right):**
 <!-- BLOG-POST-LIST:START -->
+- [Kata Containers boost security in Docker containers](https://medium.com/@mr-right)
+- [Build your very own OpenStack Lab](https://medium.com/@mr-right)
+- [Introduction to OpenStack](https://medium.com/@mr-right)
+- [What's new in Python 3.8?](https://medium.com/@mr-right)
+- [A friendly introduction to Quantum Computing](https://medium.com/@mr-right)
 <!-- BLOG-POST-LIST:END -->
 
 ---
