@@ -26,24 +26,11 @@
 
 ```python
 class Soham:
-    """
-    Agent Builder. SRE background. I automate everything.
-    """
-    def __init__(self):
-        self.role = "Senior Software Engineer @ Red Hat"
-        self.location = "Building in the cloud"
-        self.current_obsession = "Agentic AI systems that actually work"
-        
-    def what_i_build(self):
-        return [
-            "Data agents that query, transform, and reason",
-            "Deep research agents that dig until they find answers", 
-            "Infrastructure that heals itself before you notice",
-            "MCP servers that give AI superpowers",
-        ]
+    """I build agents so I never have to do the same thing twice."""
     
-    def philosophy(self):
-        return "If I have to do it twice, I build an agent to do it forever."
+    role = "Senior Software Engineer @ Red Hat"
+    background = "Site Reliability Engineering"
+    building = "Data agents, research agents, infra agents"
 ```
 
 ---
