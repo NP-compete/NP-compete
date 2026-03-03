@@ -14,8 +14,8 @@
 
 <br>
 
-<img src="https://img.shields.io/badge/Site_Reliability-Engineer-00D9FF?style=for-the-badge&labelColor=0D1117"/>
 <img src="https://img.shields.io/badge/Agent-Builder-00D9FF?style=for-the-badge&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/Site_Reliability-Engineer-00D9FF?style=for-the-badge&labelColor=0D1117"/>
 <img src="https://img.shields.io/badge/builds-everything_else-00D9FF?style=for-the-badge&labelColor=0D1117"/>
 
 </div>
