@@ -139,10 +139,6 @@ databases:
 
 **Building something interesting?** Let's talk.
 
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=NP-compete&color=00D9FF&style=flat-square&label=visitors" alt="Profile Views" />
-
 </div>
 
 ---
