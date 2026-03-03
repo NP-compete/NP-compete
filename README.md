@@ -61,47 +61,6 @@ class Soham:
 
 ---
 
-## `> ls projects/`
-
-<table>
-<tr>
-<td width="50%">
-
-### 🔧 [gomcp](https://github.com/NP-compete/gomcp)
-**MCP server template in Go** — 100% spec compliant  
-`Go` · Building blocks for AI agents
-
-</td>
-<td width="50%">
-
-### 🏗️ [HA-Kubernetes-Cluster](https://github.com/NP-compete/High-Availibility-Kubernetes-Cluster)
-**Production K8s from scratch** — Terraform + Ansible  
-`Python` `HCL` · Because managed K8s is too easy
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🔐 [Alternate-Authentication](https://github.com/NP-compete/Alternate-Authentication)
-**Smart India Hackathon 2019** — Face + Voice auth  
-`Python` · When passwords aren't enough
-
-</td>
-<td width="50%">
-
-### 🤖 [gemini-langgraph-quickstart](https://github.com/NP-compete/gemini-fullstack-langgraph-quickstart)
-**Fullstack agents with Gemini 2.5**  
-`TypeScript` · The future is agentic
-
-</td>
-</tr>
-</table>
-
-<br>
-
----
-
 ## `> cat toolbox.yaml`
 
 ```yaml
