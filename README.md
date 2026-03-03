@@ -41,7 +41,7 @@ class Soham:
 
 ```yaml
 agents_and_ai:
-  - LangGraph | LangChain | MCP Protocol
+  - LangGraph | LangChain | MCP Protocol | Langfuse
   - Gemini / Claude / GPT | RAG Pipelines
 
 infrastructure:
@@ -54,7 +54,7 @@ languages:
   - Python | Go | Bash
 
 databases:
-  - PostgreSQL | Redis | MongoDB | Elasticsearch
+  - PostgreSQL | Snowflake | Redis | MongoDB | Elasticsearch
 ```
 
 ---
