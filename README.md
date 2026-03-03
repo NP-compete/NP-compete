@@ -1,127 +1,193 @@
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&pause=1000&center=true&vCenter=true&random=false&width=600&lines=Making+Production+Predictable;Engineering+Reliability+Into+Chaos;Engineering+Autonomy+with+Agentic+AI+Systems;Driving+Development+with+Resilience" alt="Typing SVG" />
-  </a>
-</h1>
+<!-- 
+  ╔═══════════════════════════════════════════════════════════════════════════╗
+  ║  Hey, you're reading the source. I respect that.                          ║
+  ║  Here's a secret: I believe the best code is the code you don't write.    ║
+  ║  That's why I build agents to write it for me.                            ║
+  ╚═══════════════════════════════════════════════════════════════════════════╝
+-->
 
+<div align="center">
 
-<p align="center">
-  <img src="https://img.shields.io/badge/SRE-Mindset-242938?style=for-the-badge&logo=gnubash&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Cloud_Native-Skills-242938?style=for-the-badge&logo=kubernetes&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Infra_as_Code-Expert-242938?style=for-the-badge&logo=terraform&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Open_Source-Contributor-242938?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Backend-Developer-242938?style=for-the-badge&logo=go&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AI_in_Infra-Innovator-242938?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Generative_AI-Practitioner-242938?style=for-the-badge&logo=pytorch&logoColor=white"/>
-</p>
+<!-- Animated Header -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=I+build+agents+that+build+things.;Data+Agents+%E2%80%A2+Research+Agents+%E2%80%A2+Infra+Agents;Making+production+predictable+since+2018." alt="Typing SVG" />
+</a>
 
----
+<br>
 
-## 👋 Hey there! I'm Soham
+<!-- The GIF that was sitting unused -->
+<img src="assets/coder.gif" width="400" alt="Coding" />
 
-I'm a **Site Reliability Engineer** who engineers chaos-resilient, self-healing, observable production systems.  
-I love everything cloud-native, from orchestrators to observability pipelines.
+<br><br>
 
----
+<!-- Identity Badges - Minimal, Impactful -->
+<img src="https://img.shields.io/badge/builds-data_agents-00D9FF?style=for-the-badge&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/builds-research_agents-00D9FF?style=for-the-badge&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/builds-everything_else-00D9FF?style=for-the-badge&labelColor=0D1117"/>
 
-## 🌱 Currently Learning
-
-- 🤖 Agentic systems and MCP servers
-- 🔬 eBPF & Kubernetes Operators  
-- 🎨 Design Thinking for DevOps  
-- 🧠 Advanced SQL & Query Optimization  
+</div>
 
 ---
 
-## ✍️ I Write About
+<br>
 
-📚 [**The Opinionated SRE**](https://soham.super.site/blogs) — DevOps musings, production learnings, distributed systems, and chaos stories.
+## `> whoami`
 
----
+```python
+class Soham:
+    """
+    Site Reliability Engineer by day.
+    Agent architect by obsession.
+    """
+    
+    def __init__(self):
+        self.role = "Senior Software Engineer @ Red Hat"
+        self.location = "Building in the cloud"
+        self.current_obsession = "Agentic AI systems that actually work"
+        
+    def what_i_build(self):
+        return [
+            "Data agents that query, transform, and reason",
+            "Deep research agents that dig until they find answers", 
+            "Infrastructure that heals itself before you notice",
+            "MCP servers that give AI superpowers",
+        ]
+    
+    def philosophy(self):
+        return "If I have to do it twice, I build an agent to do it forever."
+```
 
-## 💬 Ask Me About
-
-**Cloud Native · System Design · Hyperconverged Infra · Infra & Config Management · SRE · Resilience Engineering**
-
----
-
-## 🌐 Connect with Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/sohamdutta/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  &nbsp;
-  <a href="https://github.com/NP-compete" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
-  </a>
-  &nbsp;
-  <a href="https://soham.super.site/" target="_blank">
-    <img src="https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website Badge"/>
-  </a>
-  &nbsp;
-  <a href="mailto:soham.dutta.devops@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
-  </a>
-  &nbsp;
-  <a href="https://medium.com/@mr-right" target="_blank">
-    <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Badge"/>
-  </a>
-</p>
-
+<br>
 
 ---
 
-## 🛠️ Toolbox
+## `> ls projects/`
 
-<p align="center">
-  <!-- Core Platforms -->
-  <img src="https://cdn.simpleicons.org/kubernetes/326CE5/ffffff" height="30" title="Kubernetes" />
-  <img src="https://cdn.simpleicons.org/terraform/623CE4/ffffff" height="30" title="Terraform" />
-  <img src="https://cdn.simpleicons.org/docker/2496ED/ffffff" height="30" title="Docker" />
-  <img src="https://cdn.simpleicons.org/ansible/EE0000/ffffff" height="30" title="Ansible" />
-  <img src="https://cdn.simpleicons.org/openstack/ED1944/ffffff" height="30" title="OpenStack" />
-  <img src="https://cdn.simpleicons.org/redhatopenshift/EE0000/ffffff" height="30" title="OpenShift" />
-  <br><br>
-  <!-- CI/CD -->
-  <img src="https://cdn.simpleicons.org/githubactions/2088FF/ffffff" height="30" title="GitHub Actions" />
-  <img src="https://cdn.simpleicons.org/gitlab/FCA121/ffffff" height="30" title="GitLab" />
-  <img src="https://cdn.simpleicons.org/jenkins/D24939/ffffff" height="30" title="Jenkins" />
-  <img src="https://cdn.simpleicons.org/packer/02A8EF/ffffff" height="30" title="Packer" />
-  <br><br>
-  <!-- Programming Languages -->
-  <img src="https://cdn.simpleicons.org/python/3776AB/ffffff" height="30" title="Python" />
-  <img src="https://cdn.simpleicons.org/go/00ADD8/ffffff" height="30" title="Go" />
-  <img src="https://cdn.simpleicons.org/gnubash/4EAA25/ffffff" height="30" title="Bash" />
-  <img src="https://cdn.simpleicons.org/django/092E20/ffffff" height="30" title="Django" />
-  <br><br>
-  <!-- Observability & Databases -->
-  <img src="https://cdn.simpleicons.org/opentelemetry/000000/ffffff" height="30" title="OpenTelemetry" />
-  <img src="https://cdn.simpleicons.org/newrelic/008C99/ffffff" height="30" title="New Relic" />
-  <img src="https://cdn.simpleicons.org/splunk/000000/ffffff" height="30" title="Splunk" />
-  <img src="https://cdn.simpleicons.org/uptimekuma/555555/ffffff" height="30" title="Uptime Kuma" />
-  <img src="https://cdn.simpleicons.org/postgresql/4169E1/ffffff" height="30" title="PostgreSQL" />
-  <img src="https://cdn.simpleicons.org/mysql/4479A1/ffffff" height="30" title="MySQL" />
-  <img src="https://cdn.simpleicons.org/mongodb/47A248/ffffff" height="30" title="MongoDB" />
-  <img src="https://cdn.simpleicons.org/redis/DC382D/ffffff" height="30" title="Redis" />
-  <img src="https://cdn.simpleicons.org/elasticsearch/005571/ffffff" height="30" title="Elasticsearch" />
-  <img src="https://cdn.simpleicons.org/elastic/005571/ffffff" height="30" title="Elastic Stack" />
-  <br><br>
-  <!-- Dev Tools -->
-  <img src="https://cdn.simpleicons.org/liquibase/2962FF/ffffff" height="30" title="Liquibase" />
-  <img src="https://cdn.simpleicons.org/metabase/509EE3/ffffff" height="30" title="Metabase" />
-  <img src="https://cdn.simpleicons.org/diagramsdotnet/F08705/ffffff" height="30" title="diagrams.net" />
-  <img src="https://cdn.simpleicons.org/cloudflare/F38020/ffffff" height="30" title="Cloudflare" />
-  <img src="https://cdn.simpleicons.org/apachekafka/231F20/ffffff" height="30" title="Kafka" />
-  <img src="https://cdn.simpleicons.org/owasp/000000/ffffff" height="30" title="OWASP" />
-  <img src="https://cdn.simpleicons.org/trivy/5E51A8/ffffff" height="30" title="Trivy" />
-</p>
+<table>
+<tr>
+<td width="50%">
+
+### 🔧 [gomcp](https://github.com/NP-compete/gomcp)
+**MCP server template in Go** — 100% spec compliant  
+`Go` · Building blocks for AI agents
+
+</td>
+<td width="50%">
+
+### 🏗️ [HA-Kubernetes-Cluster](https://github.com/NP-compete/High-Availibility-Kubernetes-Cluster)
+**Production K8s from scratch** — Terraform + Ansible  
+`Python` `HCL` · Because managed K8s is too easy
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🔐 [Alternate-Authentication](https://github.com/NP-compete/Alternate-Authentication)
+**Smart India Hackathon 2019** — Face + Voice auth  
+`Python` · When passwords aren't enough
+
+</td>
+<td width="50%">
+
+### 🤖 [gemini-langgraph-quickstart](https://github.com/NP-compete/gemini-fullstack-langgraph-quickstart)
+**Fullstack agents with Gemini 2.5**  
+`TypeScript` · The future is agentic
+
+</td>
+</tr>
+</table>
+
+<br>
 
 ---
 
-## 📊 GitHub Stats
+## `> cat toolbox.yaml`
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NP-compete&show_icons=true&theme=radical&hide=contribs&count_private=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NP-compete&layout=compact&theme=radical" height="150" />
-</p>
+```yaml
+agents_and_ai:
+  - LangGraph
+  - LangChain  
+  - MCP Protocol
+  - Gemini / Claude / GPT
+  - RAG Pipelines
+
+infrastructure:
+  - Kubernetes | OpenShift
+  - Terraform | Ansible
+  - Docker | Podman
+
+observability:
+  - OpenTelemetry
+  - Prometheus | Grafana
+  - Splunk | New Relic
+
+languages:
+  - Python (daily driver)
+  - Go (when speed matters)
+  - Bash (glue that holds it together)
+
+databases:
+  - PostgreSQL | MySQL
+  - Redis | MongoDB
+  - Elasticsearch
+```
+
+<br>
+
+---
+
+## `> git log --oneline -1 stats`
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=NP-compete&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&hide=contribs" height="165" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=NP-compete&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=888888" height="165" />
+
+<br><br>
+
+<!-- Snake eating my contributions - because why not -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NP-compete/NP-compete/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NP-compete/NP-compete/output/snake.svg" />
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/NP-compete/NP-compete/output/snake.svg" />
+</picture>
+
+</div>
+
+<br>
+
+---
+
+## `> ping soham`
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/sohamdutta/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="https://soham.super.site/">
+  <img src="https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=hashnode&logoColor=white" alt="Blog"/>
+</a>
+<a href="mailto:soham.dutta.devops@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+<a href="https://github.com/NP-compete">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+
+<br><br>
+
+**Building something interesting?** Let's talk.
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=NP-compete&color=00D9FF&style=flat-square&label=visitors" alt="Profile Views" />
+
+</div>
+
+---
+
+<div align="center">
+<sub>This README was crafted with care, not generated by AI. Okay, maybe a little AI. Fine, a lot of AI. I build agents, remember?</sub>
+</div>
