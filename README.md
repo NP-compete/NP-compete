@@ -10,7 +10,7 @@
 
 <!-- Animated Header -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=I+build+agents+that+build+things.;Data+Agents+%E2%80%A2+Research+Agents+%E2%80%A2+Infra+Agents;Making+production+predictable+since+2018." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&repeat=true&width=500&height=60&lines=I+build+agents+that+build+things;Data+%7C+Research+%7C+Infra+Agents;Production+predictable+since+2018" alt="Typing SVG" />
 </a>
 
 <br>
