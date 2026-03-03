@@ -12,6 +12,8 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&repeat=true&width=380&height=50&lines=Building+agents+that+build;Data+%E2%80%A2+AI+%E2%80%A2+Research+%E2%80%A2+Infra;Production+predictable+since+'18" alt="Typing SVG" />
 </a>
 
+<br>
+
 <img src="https://img.shields.io/badge/builds-data_agents-00D9FF?style=for-the-badge&labelColor=0D1117"/>
 <img src="https://img.shields.io/badge/builds-research_agents-00D9FF?style=for-the-badge&labelColor=0D1117"/>
 <img src="https://img.shields.io/badge/builds-everything_else-00D9FF?style=for-the-badge&labelColor=0D1117"/>
