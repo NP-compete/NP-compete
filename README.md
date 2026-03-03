@@ -141,8 +141,8 @@ databases:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=NP-compete&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&hide=contribs" height="165" />
-<img src="https://github-readme-streak-stats.herokuapp.com?user=NP-compete&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=888888" height="165" />
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=NP-compete&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&hide=contribs" height="165" />
+<img src="https://streak-stats.demolab.com?user=NP-compete&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=888888" height="165" />
 
 <br><br>
 
