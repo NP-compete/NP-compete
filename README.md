@@ -68,13 +68,7 @@ databases:
 - [Understanding Trust in Your Infrastructure](https://soham.super.site/blogs)
 
 **From [Medium](https://medium.com/@mr-right):**
-<!-- BLOG-POST-LIST:START -->
-- [SRE Odyssey: Navigating Chaos to Forge Collaborative Triumph](https://mr-right.medium.com/sre-odyssey-navigating-chaos-to-forge-collaborative-triumph-5e392051820f)
-- [Locked and Loaded: Fortifying AWS EC2 Security with an Ironclad Metadata Block](https://mr-right.medium.com/locked-and-loaded-fortifying-aws-ec2-security-with-an-ironclad-metadata-block-d0366dcd8315)
-- [Terraform: Aurora Postgres DB Upgrade](https://mr-right.medium.com/terraform-aurora-postgres-db-upgrade-86f32571efdd)
-- [Using ChatGPT and terraform](https://mr-right.medium.com/using-chatgpt-to-convert-terraform-for-aws-to-azure-and-gcp-8f5562f59afd)
-- [My life at Airmeet❤️](https://mr-right.medium.com/my-life-at-airmeet-3ec7a464a181)
-<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->- [SRE Odyssey: Navigating Chaos to Forge Collaborative Triumph](https://mr-right.medium.com/sre-odyssey-navigating-chaos-to-forge-collaborative-triumph-5e392051820f?source=rss-adc1ea49399b------2)- [Locked and Loaded: Fortifying AWS EC2 Security with an Ironclad Metadata Block](https://mr-right.medium.com/locked-and-loaded-fortifying-aws-ec2-security-with-an-ironclad-metadata-block-d0366dcd8315?source=rss-adc1ea49399b------2)- [Terraform: Aurora Postgres DB Upgrade](https://mr-right.medium.com/terraform-aurora-postgres-db-upgrade-86f32571efdd?source=rss-adc1ea49399b------2)- [Using ChatGPT and terraform](https://mr-right.medium.com/using-chatgpt-to-convert-terraform-for-aws-to-azure-and-gcp-8f5562f59afd?source=rss-adc1ea49399b------2)- [My life at Airmeet❤️](https://mr-right.medium.com/my-life-at-airmeet-3ec7a464a181?source=rss-adc1ea49399b------2)<!-- BLOG-POST-LIST:END -->
 
 ---
 
