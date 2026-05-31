@@ -8,7 +8,7 @@
 
 <div align="center">
 
-### *"I build the infrastructure that makes AI work in production."*
+### *"I train models, build agents, and ship them to production."*
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&repeat=true&width=500&height=50&lines=Full-Stack+AI%2FML+Engineer;Agents+%E2%80%A2+RAG+%E2%80%A2+Fine-tuning+%E2%80%A2+MLOps;From+model+training+to+production+K8s" alt="Typing SVG" />
